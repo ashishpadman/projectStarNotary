@@ -12,18 +12,18 @@
 ## Testing SnapShots
 
 1) ### Created First Star
-![Created 1st Star](testSnips%5CCreateStar-StarOne.png)
+![Created 1st Star](https://github.com/ashishpadman/projectStarNotary/raw/master/testSnips/CreateStar-StarOne.png)
 
 2) ### Created Second Star
-![Create 2nd Star](testSnips%5CCreateStar-StarTwo.png)
+![Create 2nd Star](https://github.com/ashishpadman/projectStarNotary/raw/master/testSnips/CreateStar-StarTwo.png)
 
 3) ### Looked up First Star
-![Lookup StarOne](testSnips%5CLookUp-StarOne.png)
+![Lookup StarOne](https://github.com/ashishpadman/projectStarNotary/raw/master/testSnips/LookUp-StarOne.png)
 
 4) ### Looked up Second Star
-![Lookup StarTwo](testSnips%5CLookUp-StarTwo.png)
+![Lookup StarTwo](https://github.com/ashishpadman/projectStarNotary/raw/master/testSnips/LookUp-StarTwo.png)
 
 5) ### STR Token on Rinkeby + Metamask
-![MetaMask STR Tokens+Contract](testSnips%5CDeployedContractonEtherScanwithMetaMask.png)
-![TokenonEtherScan](testSnips%5CStareumTokenOnEtherScan.png)
+![MetaMask STR Tokens+Contract](https://github.com/ashishpadman/projectStarNotary/raw/master/testSnips/DeployedContractonEtherScanwithMetaMask.png)
+![TokenonEtherScan](https://github.com/ashishpadman/projectStarNotary/raw/master/testSnips/StareumTokenOnEtherScan.png)
 
